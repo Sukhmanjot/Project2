@@ -30,6 +30,6 @@ Desc:
 
 4. Start the second while loop2 until the length of min list becomes 27. Same procedure is done as above while loop1 Then add final value to min_list.
 
-5.Print both the max_list and min_list.
+5. Print both the max_list and min_list.
 
-6.Then print final_list ie concatenated list of max_list and min_list.
+6. Then print final_list ie concatenated list of max_list and min_list.
